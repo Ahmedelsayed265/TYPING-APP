@@ -11,7 +11,7 @@
   --border-color: #8490aa;
   --font-color: #eeeff1;
   --blue-color: #227cfd;
-  --green-color: #8de02c;
+  --green-color: #d0ff00;
 }
 body {
   display: flex;
@@ -131,7 +131,10 @@ h1 {
   color: var(--green-color);
 }
 .text p span.incorrect {
-  color: red;
+  color:#570000;
+  background-color: #FFC7C7;
+  outline: 1px solid var(--bg2-color);
+  border-radius: 2px;
 }
 .text p span.active {
   color: #17a2b8;
