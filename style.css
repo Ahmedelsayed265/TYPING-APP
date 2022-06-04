@@ -31,13 +31,12 @@ h1 {
   background-color: var(--bg2-color);
   box-shadow: rgba(0, 0, 0, 0.25) 0px 1px 4px;
   width: 770px;
-  padding: 35px;
+  padding: 40px;
   margin-top: 30px;
   border-radius: 10px;
 }
 .container .content-box {
   padding: 13px 20px 0;
-  border: 1px solid var(--border-color);
   border-radius: 10px;
 }
 .content-box .text {
